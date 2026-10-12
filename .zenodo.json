@@ -1,0 +1,16 @@
+{
+  "title": "dubai-dld-monthly-stats: Dubai DLD monthly property sales statistics",
+  "upload_type": "dataset",
+  "description": "Monthly aggregates of Dubai Land Department (DLD) registered property sales for 2026 year-to-date (Jan–Aug): transaction count, median price (AED), median AED/sqft and off-plan vs ready share by area and property type. Built reproducibly from DLD open data; aggregates only. Not an official DLD product.",
+  "creators": [{"name": "UAE Property"}],
+  "license": "cc-by-4.0",
+  "keywords": ["Dubai", "real estate", "DLD", "property prices", "open data", "dataset"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/marfa77/dubai-dld-monthly-stats", "relation": "isSupplementTo", "scheme": "url"},
+    {"identifier": "https://uaeproperty.vip", "relation": "isReferencedBy", "scheme": "url"},
+    {"identifier": "https://marfa77.github.io/dubai-dld-monthly-stats/", "relation": "isDocumentedBy", "scheme": "url"},
+    {"identifier": "https://dubailand.gov.ae/en/open-data/real-estate-data/", "relation": "isDerivedFrom", "scheme": "url"}
+  ],
+  "access_right": "open",
+  "version": "1.0.0"
+}

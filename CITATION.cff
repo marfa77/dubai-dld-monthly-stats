@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "dubai-dld-monthly-stats: Dubai DLD monthly property sales statistics"
+version: 1.0.0
+date-released: 2026-10-12
+authors:
+  - name: UAE Property
+    website: https://uaeproperty.vip
+license: CC-BY-4.0
+repository-code: https://github.com/marfa77/dubai-dld-monthly-stats
+url: https://marfa77.github.io/dubai-dld-monthly-stats/
+keywords: [Dubai, real estate, DLD, property prices, open data, dataset]
+abstract: "Monthly aggregates (count, median price AED, median AED/sqft, off-plan share) of Dubai Land Department registered sales by area and property type, built from DLD open data."
+references:
+  - type: data
+    title: "Dubai Land Department Open Data - Real Estate Transactions"
+    authors:
+      - name: Dubai Land Department
+    url: https://dubailand.gov.ae/en/open-data/real-estate-data/

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marfa77.github.io/dubai-dld-monthly-stats/sitemap.xml

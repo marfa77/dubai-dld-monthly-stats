@@ -1,0 +1,7 @@
+The aggregated data in data/ and huggingface/ (dld_monthly_sales.csv, dld_monthly_sales.json) is licensed under
+the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/legalcode
+Attribution: "dubai-dld-monthly-stats by UAE Property (https://uaeproperty.vip), based on Dubai Land Department open data".
+
+Underlying source: Dubai Land Department open data (Dubai Government). Re-users must also attribute
+"Dubai Land Department / Dubai Government" and must not imply official endorsement. Not an official DLD product.
