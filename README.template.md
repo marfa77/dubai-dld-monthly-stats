@@ -1,5 +1,7 @@
 # Dubai DLD monthly sales statistics (open dataset)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23322282.svg)](https://doi.org/10.5281/zenodo.23322282)
+
 Monthly aggregates of **registered property sales** in Dubai, built from the
 [Dubai Land Department (DLD) open data](https://dubailand.gov.ae/en/open-data/real-estate-data/)
 transactions feed. Covers **2026 year-to-date (Jan–Aug) ({start} – {end}), {months} complete months**, **{areas} areas**, **{tx:,} sales transactions**.

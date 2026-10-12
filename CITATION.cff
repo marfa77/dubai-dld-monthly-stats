@@ -7,6 +7,7 @@ date-released: 2026-10-12
 authors:
   - name: UAE Property
     website: https://uaeproperty.vip
+doi: 10.5281/zenodo.23322282
 license: CC-BY-4.0
 repository-code: https://github.com/marfa77/dubai-dld-monthly-stats
 url: https://marfa77.github.io/dubai-dld-monthly-stats/
