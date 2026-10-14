@@ -13,6 +13,10 @@ and off-plan vs ready share.
 - Interactive page with charts: https://marfa77.github.io/dubai-dld-monthly-stats/
 - Pipeline: [`scripts/fetch_and_aggregate.py`](scripts/fetch_and_aggregate.py)
 
+## Interactive demo
+
+Try it on Hugging Face Spaces: [dubai-property-prices](https://huggingface.co/spaces/pablo2319/dubai-property-prices) — pick an area and month to see median sold price per m², sales count, MoM change and a chart.
+
 ## Columns
 
 | column | meaning |
