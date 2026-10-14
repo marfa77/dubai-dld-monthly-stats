@@ -1,6 +1,8 @@
 # Dubai DLD monthly sales statistics (open dataset)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23322282.svg)](https://doi.org/10.5281/zenodo.23322282)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23322282.svg)](https://doi.org/10.5281/zenodo.23322282) [![PyPI](https://img.shields.io/pypi/v/dubai-dld-monthly-stats.svg)](https://pypi.org/project/dubai-dld-monthly-stats/)
+
+Install: `pip install dubai-dld-monthly-stats`
 
 Monthly aggregates of **registered property sales** in Dubai, built from the
 [Dubai Land Department (DLD) open data](https://dubailand.gov.ae/en/open-data/real-estate-data/)
