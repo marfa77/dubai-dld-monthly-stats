@@ -2,6 +2,12 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23322282.svg)](https://doi.org/10.5281/zenodo.23322282) [![PyPI](https://img.shields.io/pypi/v/dubai-dld-monthly-stats.svg)](https://pypi.org/project/dubai-dld-monthly-stats/)
 
+[![npm](https://img.shields.io/npm/v/dubai-dld-monthly-stats.svg)](https://www.npmjs.com/package/dubai-dld-monthly-stats)
+
+```sh
+npm install dubai-dld-monthly-stats
+```
+
 Install: `pip install dubai-dld-monthly-stats`
 
 Monthly aggregates of **registered property sales** in Dubai, built from the
